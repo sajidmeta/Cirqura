@@ -354,7 +354,7 @@ const page = () => {
         </p>
       </div>
       <div className="py-10">
-        <img src="/asset/group 23.svg" alt="" className="w-full" />
+        <img src="/asset/group 23.png" alt="" className="w-full" />
       </div>
     </div>
 
