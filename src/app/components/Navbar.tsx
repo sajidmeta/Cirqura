@@ -44,28 +44,28 @@ const Navbar = () => {
 
         
           <div className="flex space-x-20 text-sm">
-            <Link href="/" className="hover:font-bold">
+            <Link href="#" className="hover:font-bold">
               Home
             </Link>
-            <Link href="/about" className="hover:font-bold">
+            <Link href="#" className="hover:font-bold">
               About
             </Link>
-            <Link href="/services" className="hover:font-bold">
+            <Link href="#" className="hover:font-bold">
               Services
             </Link>
-            <Link href="/portfolio" className="hover:font-bold">
+            <Link href="#" className="hover:font-bold">
               Portfolio
             </Link>
-            <Link href="/blogs" className="hover:font-bold">
+            <Link href="#" className="hover:font-bold">
               Blogs
             </Link>
           </div>
 
           <div className="flex space-x-4 ">
-            <Link href="/contact" className=" py-5 text-blue-600 font-bold px-5 text-center self-center ">
+            <Link href="#" className=" py-5 text-blue-600 font-bold px-5 text-center self-center ">
               Contact Us
             </Link>
-            <Link href="/learn-more" className="text-white font-bold py-5  px-5  bg-[#0043B7] ">
+            <Link href="#" className="text-white font-bold py-5  px-5  bg-[#0043B7] ">
               Learn More
             </Link>
           </div>
