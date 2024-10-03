@@ -353,9 +353,9 @@ const page = () => {
           Mobile App
         </p>
       </div>
-      <div className="py-10">
+    
         <img src="/asset/group 23.png" alt="" className="w-full" />
-      </div>
+      
     </div>
 
     <div className="flex">
