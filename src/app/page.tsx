@@ -37,7 +37,7 @@ const page = () => {
   };
 
   return (
-    <div className="main max-w-[100rem] mx-auto">
+    <div className="main w-full">
       <Navbar/>
     <div className="min-h-screen bg-blue-50 relative">
       {/* Header Section */}
